@@ -8,6 +8,7 @@ namespace ASP.NET_MVC_Application
     {
         public void Configuration(IAppBuilder app)
         {
+            //this is main file
             ConfigureAuth(app);
         }
     }
